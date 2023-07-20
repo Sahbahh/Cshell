@@ -1,0 +1,13 @@
+theme blue
+print testing the script mode
+pwd
+theme green
+log
+$VAR=abcc
+theme red
+print The value of variable VAR:
+print $VAR
+print Fail case
+theme red
+hi
+print Bye!
